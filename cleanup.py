@@ -12,7 +12,7 @@ dirr_one = curr_path+"/targetOne"
 dirr_two = curr_path+"/targetMany"
 dirr_three = curr_path+"/outputForMany"
 
-dirs = ["targetOne","targetMany","outputForMany","monkey"]
+dirs = ["targetOne","targetMany","outputForMany"]
 
 #shutil.rmtree can delete non empty directory
 #os.rmdir() can only delete empty directories
